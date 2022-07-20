@@ -8,5 +8,20 @@
 
   
 
+###  资料
 
+> https://github.com/rust-lang-cn/book-cn
+>
+> https://rustwiki.org/zh-CN/book/
 
+> https://github.com/rust-lang/book
+>
+> https://doc.rust-lang.org/book/title-page.html
+
+> [https://github.com/rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn)
+>
+> [https://rustwiki.org/zh-CN/rust-by-example/]
+
+> [https://github.com/rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example)
+>
+> [https://doc.rust-lang.org/stable/rust-by-example/](https://doc.rust-lang.org/stable/rust-by-example/)

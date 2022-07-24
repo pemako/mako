@@ -1,7 +1,5 @@
 # README
 
-目录说明
-
 - [`language`](./language/README.md)
 - [`interest`](./interest/README.md)
 - [`skill`](./skill/README.md)
